@@ -1,0 +1,4 @@
+name,description,expected,FirstName,LastName,Email,UserName,Password,ConfirmPassword
+Test1,the entry is correct,pass,Mica,Lazic,ml@yahoo.com,M,ML,ML
+Test2,the entry is existing mail,fail,Maca,Lazic,ml@yahoo.com,Ma,Mla,Mla
+Test3,password and confirm password are't the same,fail,Laki,Aki,la@yahoo.com,La,Lak,Lak
